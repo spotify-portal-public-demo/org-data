@@ -1,0 +1,83 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: core
+  description: Platform Core
+spec:
+  type: squad
+  profile:
+    email: core@spotify.com
+  children: []
+  members: [staylor, bjones, msmith, rjohnson, dwhite, kyoung]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: infraops
+  description: Infrastructure and Operations
+spec:
+  type: squad
+  profile:
+    email: infraops@spotify.com
+  children: []
+  members: [tmartin, cgarcia, hlee, pmoore]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: devex
+  description: Developer Experience
+spec:
+  type: squad
+  profile:
+    email: devex@spotify.com
+  children: []
+  members: [awalsh, csmith, jroberts, jharris]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: content
+  description: Content Catalog and Operations
+spec:
+  type: squad
+  profile:
+    email: content@spotify.com
+  children: []
+  members: [amiller, progers, sscott, wmartinez]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: playback
+  description: Playback and Streaming Experience
+spec:
+  type: squad
+  profile:
+    email: playback@spotify.com
+  children: []
+  members: [jreed, gparker, eadams, bturner, lvilla]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: discovery
+  description: Discovery and Recommendation
+spec:
+  type: squad
+  profile:
+    email: discovery@spotify.com
+  children: []
+  members: [rhall, mwood, kcampbell, zcarter]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: growth
+  description: User Growth and Monetization
+spec:
+  type: squad
+  profile:
+    email: growth@spotify.com
+  children: []
+  members: [alopez, nbrown, rclark, sbell]

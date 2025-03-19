@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: org-data
+  description: Org Data - Tribes, Squads, and Users
+spec:
+  targets:
+    - ./tribes.yaml
+    - ./squads.yaml
+    - ./users.yaml
