@@ -6,6 +6,7 @@ spec:
   profile:
     displayName: Sam Taylor
     email: staylor@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/staylor.jpeg
   memberOf: [core]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -16,6 +17,7 @@ spec:
   profile:
     displayName: Bella Jones
     email: bjones@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/bjones.jpeg
   memberOf: [core]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -26,6 +28,7 @@ spec:
   profile:
     displayName: Michael Smith
     email: msmith@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/msmith.jpeg
   memberOf: [core]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -36,6 +39,7 @@ spec:
   profile:
     displayName: Rachel Johnson
     email: rjohnson@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/rjohnson.jpeg
   memberOf: [core]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -46,6 +50,7 @@ spec:
   profile:
     displayName: David White
     email: dwhite@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/dwhite.jpeg
   memberOf: [core]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -56,6 +61,7 @@ spec:
   profile:
     displayName: Katie Young
     email: kyoung@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/kyoung.jpeg
   memberOf: [core]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -66,6 +72,7 @@ spec:
   profile:
     displayName: Tom Martin
     email: tmartin@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/tmartin.jpeg
   memberOf: [infraops]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -76,6 +83,7 @@ spec:
   profile:
     displayName: Carlos Garcia
     email: cgarcia@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/cgarcia.jpeg
   memberOf: [infraops]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -86,6 +94,7 @@ spec:
   profile:
     displayName: Hannah Lee
     email: hlee@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/hlee.jpeg
   memberOf: [infraops]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -96,6 +105,7 @@ spec:
   profile:
     displayName: Patrick Moore
     email: pmoore@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/pmoore.jpeg
   memberOf: [infraops]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -106,6 +116,7 @@ spec:
   profile:
     displayName: Amanda Walsh
     email: awalsh@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/awalsh.jpeg
   memberOf: [devex]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -116,6 +127,7 @@ spec:
   profile:
     displayName: Chris Smith
     email: csmith@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/csmith.jpeg
   memberOf: [devex]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -126,6 +138,7 @@ spec:
   profile:
     displayName: Julia Roberts
     email: jroberts@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/jroberts.jpeg
   memberOf: [devex]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -136,6 +149,7 @@ spec:
   profile:
     displayName: John Harris
     email: jharris@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/jharris.jpeg
   memberOf: [devex]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -146,6 +160,7 @@ spec:
   profile:
     displayName: Alice Miller
     email: amiller@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/amiller.jpeg
   memberOf: [content]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -156,6 +171,7 @@ spec:
   profile:
     displayName: Paul Rogers
     email: progers@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/progers.jpeg
   memberOf: [content]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -166,6 +182,7 @@ spec:
   profile:
     displayName: Sarah Scott
     email: sscott@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/sscott.jpeg
   memberOf: [content]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -176,6 +193,7 @@ spec:
   profile:
     displayName: Will Martinez
     email: wmartinez@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/wmartinez.jpeg
   memberOf: [content]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -186,6 +204,7 @@ spec:
   profile:
     displayName: Jennifer Reed
     email: jreed@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/jreed.jpeg
   memberOf: [playback]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -196,6 +215,7 @@ spec:
   profile:
     displayName: George Parker
     email: gparker@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/gparker.jpeg
   memberOf: [playback]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -206,6 +226,7 @@ spec:
   profile:
     displayName: Emily Adams
     email: eadams@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/eadams.jpeg
   memberOf: [playback]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -216,6 +237,7 @@ spec:
   profile:
     displayName: Ben Turner
     email: bturner@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/bturner.jpeg
   memberOf: [playback]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -226,6 +248,7 @@ spec:
   profile:
     displayName: Lisa Villa
     email: lvilla@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/lvilla.jpeg
   memberOf: [playback]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -236,6 +259,7 @@ spec:
   profile:
     displayName: Robert Hall
     email: rhall@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/rhall.jpeg
   memberOf: [discovery]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -246,6 +270,7 @@ spec:
   profile:
     displayName: Megan Wood
     email: mwood@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/mwood.jpeg
   memberOf: [discovery]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -256,6 +281,7 @@ spec:
   profile:
     displayName: Kyle Campbell
     email: kcampbell@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/kcampbell.jpeg
   memberOf: [discovery]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -266,6 +292,7 @@ spec:
   profile:
     displayName: Zoe Carter
     email: zcarter@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/zcarter.jpeg
   memberOf: [discovery]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -276,6 +303,7 @@ spec:
   profile:
     displayName: Andrew Lopez
     email: alopez@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/alopez.jpeg
   memberOf: [growth]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -286,6 +314,7 @@ spec:
   profile:
     displayName: Natalie Brown
     email: nbrown@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/nbrown.jpeg
   memberOf: [growth]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -296,6 +325,7 @@ spec:
   profile:
     displayName: Ryan Clark
     email: rclark@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/rclark.jpeg
   memberOf: [growth]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -306,4 +336,5 @@ spec:
   profile:
     displayName: Sophia Bell
     email: sbell@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/sbell.jpeg
   memberOf: [growth]
