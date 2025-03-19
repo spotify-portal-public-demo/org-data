@@ -1,0 +1,26 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: platform
+  description: Platform Tribe
+spec:
+  type: tribe
+  profile:
+    displayName: Platform Tribe
+    email: platform@spotify.com
+  children: [core, infraops, devex]
+  members: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: product
+  description: Product Tribe
+spec:
+  type: tribe
+  profile:
+    displayName: Product Tribe
+    email: product@spotify.com
+  children: [content, playback, discovery, growth]
+  members: []

@@ -1,0 +1,279 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: amiller
+spec:
+  profile:
+    displayName: Alice Miller
+    email: amiller@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: progers
+spec:
+  profile:
+    displayName: Paul Rogers
+    email: progers@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sscott
+spec:
+  profile:
+    displayName: Sarah Scott
+    email: sscott@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: wmartinez
+spec:
+  profile:
+    displayName: Will Martinez
+    email: wmartinez@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: staylor
+spec:
+  profile:
+    displayName: Sam Taylor
+    email: staylor@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bjones
+spec:
+  profile:
+    displayName: Bella Jones
+    email: bjones@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: msmith
+spec:
+  profile:
+    displayName: Michael Smith
+    email: msmith@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rjohnson
+spec:
+  profile:
+    displayName: Rachel Johnson
+    email: rjohnson@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dwhite
+spec:
+  profile:
+    displayName: David White
+    email: dwhite@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kyoung
+spec:
+  profile:
+    displayName: Katie Young
+    email: kyoung@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: awalsh
+spec:
+  profile:
+    displayName: Amanda Walsh
+    email: awalsh@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: csmith
+spec:
+  profile:
+    displayName: Chris Smith
+    email: csmith@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jroberts
+spec:
+  profile:
+    displayName: Julia Roberts
+    email: jroberts@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jharris
+spec:
+  profile:
+    displayName: John Harris
+    email: jharris@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rhall
+spec:
+  profile:
+    displayName: Robert Hall
+    email: rhall@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mwood
+spec:
+  profile:
+    displayName: Megan Wood
+    email: mwood@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kcampbell
+spec:
+  profile:
+    displayName: Kyle Campbell
+    email: kcampbell@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: zcarter
+spec:
+  profile:
+    displayName: Zoe Carter
+    email: zcarter@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alopez
+spec:
+  profile:
+    displayName: Andrew Lopez
+    email: alopez@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: nbrown
+spec:
+  profile:
+    displayName: Natalie Brown
+    email: nbrown@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rclark
+spec:
+  profile:
+    displayName: Ryan Clark
+    email: rclark@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sbell
+spec:
+  profile:
+    displayName: Sophia Bell
+    email: sbell@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tmartin
+spec:
+  profile:
+    displayName: Tom Martin
+    email: tmartin@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cgarcia
+spec:
+  profile:
+    displayName: Carlos Garcia
+    email: cgarcia@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hlee
+spec:
+  profile:
+    displayName: Hannah Lee
+    email: hlee@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: pmoore
+spec:
+  profile:
+    displayName: Patrick Moore
+    email: pmoore@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jreed
+spec:
+  profile:
+    displayName: Jennifer Reed
+    email: jreed@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gparker
+spec:
+  profile:
+    displayName: George Parker
+    email: gparker@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: eadams
+spec:
+  profile:
+    displayName: Emily Adams
+    email: eadams@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bturner
+spec:
+  profile:
+    displayName: Ben Turner
+    email: bturner@spotify.com
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: lvilla
+spec:
+  profile:
+    displayName: Lisa Villa
+    email: lvilla@spotify.com
