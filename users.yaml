@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: dek
+  description: CEO
 spec:
   profile:
     displayName: Daniel Ek
@@ -13,6 +14,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: gwall
+  description: Group Manager
 spec:
   profile:
     displayName: Gary Wall
@@ -24,6 +26,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: kpeck
+  description: Product Manager
 spec:
   profile:
     displayName: Katharine Peck
@@ -36,6 +39,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: cjohnson
+  description: Group Manager
 spec:
   profile:
     displayName: Christi Johnson
@@ -47,6 +51,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: cnorton
+  description: Group Manager
 spec:
   profile:
     displayName: Clark Norton
@@ -58,6 +63,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: staylor
+  description: Engineering Manager
 spec:
   profile:
     displayName: Sam Taylor
@@ -69,6 +75,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: bjones
+  description: Senior Engineer
 spec:
   profile:
     displayName: Bella Jones
@@ -80,6 +87,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: msmith
+  description: Senior Engineer
 spec:
   profile:
     displayName: Michael Smith
@@ -91,6 +99,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: rjohnson
+  description: Engineer II
 spec:
   profile:
     displayName: Rachel Johnson
@@ -102,6 +111,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: dwhite
+  description: Engineer II
 spec:
   profile:
     displayName: David White
@@ -113,6 +123,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: kyoung
+  description: Engineer I
 spec:
   profile:
     displayName: Katie Young
@@ -124,6 +135,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: tmartin
+  description: Engineering Manager
 spec:
   profile:
     displayName: Tom Martin
@@ -135,6 +147,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: cgarcia
+  description: Senior Engineer
 spec:
   profile:
     displayName: Carlos Garcia
@@ -146,6 +159,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: hlee
+  description: Engineer II
 spec:
   profile:
     displayName: Hannah Lee
@@ -157,6 +171,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: pmoore
+  description: Engineer II
 spec:
   profile:
     displayName: Patrick Moore
@@ -168,6 +183,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: awalsh
+  description: Engineering Manager
 spec:
   profile:
     displayName: Amanda Walsh
@@ -179,6 +195,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: csmith
+  description: Senior Engineer
 spec:
   profile:
     displayName: Chris Smith
@@ -190,6 +207,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: jroberts
+  description: Engineer II
 spec:
   profile:
     displayName: Julia Roberts
@@ -201,6 +219,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: jharris
+  description: Engineer I
 spec:
   profile:
     displayName: John Harris
@@ -212,6 +231,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: amiller
+  description: Engineering Manager
 spec:
   profile:
     displayName: Alice Miller
@@ -223,6 +243,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: progers
+  description: Senior Engineer
 spec:
   profile:
     displayName: Paul Rogers
@@ -234,6 +255,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: sscott
+  description: Engineer II
 spec:
   profile:
     displayName: Sarah Scott
@@ -245,6 +267,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: wmartinez
+  description: Engineer I
 spec:
   profile:
     displayName: Will Martinez
@@ -256,6 +279,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: jreed
+  description: Engineering Manager
 spec:
   profile:
     displayName: Jennifer Reed
@@ -267,6 +291,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: gparker
+  description: Senior Engineer
 spec:
   profile:
     displayName: George Parker
@@ -278,6 +303,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: eadams
+  description: Engineer II
 spec:
   profile:
     displayName: Emily Adams
@@ -289,6 +315,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: bturner
+  description: Engineer I
 spec:
   profile:
     displayName: Ben Turner
@@ -300,6 +327,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: lvilla
+  description: Engineer I
 spec:
   profile:
     displayName: Lisa Villa
@@ -311,6 +339,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: rhall
+  description: Engineering Manager
 spec:
   profile:
     displayName: Robert Hall
@@ -322,6 +351,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: mwood
+  description: Senior Engineer
 spec:
   profile:
     displayName: Megan Wood
@@ -333,6 +363,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: kcampbell
+  description: Engineer II
 spec:
   profile:
     displayName: Kyle Campbell
@@ -344,6 +375,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: zcarter
+  description: Engineer II
 spec:
   profile:
     displayName: Zoe Carter
@@ -355,6 +387,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: alopez
+  description: Engineering Manager
 spec:
   profile:
     displayName: Andrew Lopez
@@ -366,6 +399,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: nbrown
+  description: Senior Engineer
 spec:
   profile:
     displayName: Natalie Brown
@@ -377,6 +411,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: rclark
+  description: Engineer II
 spec:
   profile:
     displayName: Ryan Clark
@@ -388,6 +423,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: sbell
+  description: Engineer I
 spec:
   profile:
     displayName: Sophia Bell
