@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: spotify
+  description: Spotify Org
+spec:
+  type: org
+  profile:
+    email: org-root@spotify.com
+  children: [platform, product]
+  members: [dek]

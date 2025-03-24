@@ -5,6 +5,7 @@ metadata:
   description: Org Data - Tribes, Squads, and Users
 spec:
   targets:
+    - ./org.yaml
     - ./tribes.yaml
     - ./squads.yaml
     - ./users.yaml

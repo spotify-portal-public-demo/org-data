@@ -1,6 +1,62 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
+  name: dek
+spec:
+  profile:
+    displayName: Daniel Ek
+    email: dek@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/dek.jpeg
+  memberOf: [spotify]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gwall
+spec:
+  profile:
+    displayName: Gary Wall
+    email: gwall@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/gwall.jpeg
+  memberOf: [platform]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kpeck
+spec:
+  profile:
+    displayName: Katharine Peck
+    email: kpeck@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/kpeck.jpeg
+  memberOf: [platform]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cjohnson
+spec:
+  profile:
+    displayName: Christi Johnson
+    email: cjohnson@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/cjohnson.jpeg
+  memberOf: [product]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cnorton
+spec:
+  profile:
+    displayName: Clark Norton
+    email: cnorton@spotify.com
+    picture: https://raw.githubusercontent.com/spotify-portal-public-demo/org-data/refs/heads/main/images/cnorton.jpeg
+  memberOf: [product]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
   name: staylor
 spec:
   profile:

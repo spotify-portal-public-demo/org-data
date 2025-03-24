@@ -8,7 +8,7 @@ spec:
   profile:
     email: platform@spotify.com
   children: [core, infraops, devex]
-  members: []
+  members: [gwall, kpeck]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
@@ -20,4 +20,4 @@ spec:
   profile:
     email: product@spotify.com
   children: [content, playback, discovery, growth]
-  members: []
+  members: [cjohnson, cnorton]
