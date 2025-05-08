@@ -9,3 +9,4 @@ spec:
     - ./tribes.yaml
     - ./squads.yaml
     - ./users.yaml
+    - ./systems.yaml
