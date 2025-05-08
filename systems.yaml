@@ -1,0 +1,23 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: metadata
+  description: Metadata and related components
+spec:
+  owner: "group:default/content"
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: search
+  description: Search and related components
+spec:
+  owner: "group:default/discovery"
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: web-api
+  description: Web API and related components
+spec:
+  owner: "group:default/discovery"
