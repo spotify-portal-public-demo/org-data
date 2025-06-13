@@ -21,3 +21,11 @@ metadata:
   description: Web API and related components
 spec:
   owner: "group:default/discovery"
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: recommendation
+  description: Recommendation and related components
+spec:
+  owner: "group:default/discovery"
